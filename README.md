@@ -8,6 +8,7 @@ Shared **skills** for Wiz Kidz student projects. A skill is a short instruction 
 | `devops/` | Setup, running and testing, git, pull requests, deploying |
 | `plan-a-feature/` | Coaches a kid to plan who, what, and why before building |
 | `make-a-skill/` | Helps a kid write a new skill for their project |
+| `add-analytics/` | Adds privacy-friendly visitor counts (GoatCounter, no cookies) with a private dashboard per project |
 | `templates/AGENTS.md` | Starter `AGENTS.md` for a new project |
 
 ## Use it in a project
